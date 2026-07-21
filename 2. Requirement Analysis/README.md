@@ -34,4 +34,4 @@ Database:
 
 ## Requirement Images
 
-![Requirements](images/requirements.png)
+![Requirements](https://img.freepik.com/premium-vector/car-booking-app-concept-flat-design-collection-mobile-app-ui-screenshots_198565-11446.jpg)

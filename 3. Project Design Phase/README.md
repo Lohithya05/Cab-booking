@@ -25,4 +25,4 @@ Collections:
 
 ## Architecture Diagram
 
-![System Architecture](images/architecture.png)
+![System Architecture](https://tse2.mm.bing.net/th/id/OIP.IfE55V9FdBkTqh54ZmozwQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)

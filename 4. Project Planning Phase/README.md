@@ -22,4 +22,4 @@
 
 ## Planning Diagram
 
-![Project Plan](images/project-plan.png)
+![Project Plan](https://codebun.com/wp-content/uploads/2022/05/Level-2-DFD-Online-Car-Booking-System.png)

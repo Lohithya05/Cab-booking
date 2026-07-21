@@ -28,4 +28,4 @@ A web-based Cab Booking System that allows users to:
 
 (Add images here)
 
-![Cab Booking Idea](images/cab-booking-idea.png)
+![Cab Booking Idea](https://canws.com/wp-content/uploads/2025/09/Cab-Booking-App-Development-Guide-From-Idea-to-Launch-1024x550.png)
