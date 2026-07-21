@@ -13,6 +13,3 @@ Cab Booking System is a full-stack web application developed to provide online c
 - User Manual
 
 
-## Screenshots
-
-![Documentation](C:\Users\lohit\Downloads\Cab_Booking_Project_Report.docx)
